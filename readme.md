@@ -25,10 +25,8 @@ I've, made this project while learning JavaScript.
 
 ## Screenshots
 
-![App Screenshot](/assets//initial-preview.png)
-![App Screenshot](/assets//player-preview.png)
-![App Screenshot](/assets//playlist-preview.png)
-
+![App Screenshot](![image](https://github.com/amans-3/Audio-player/assets/160108455/9c520827-8978-4ba4-a8ec-0465cd4691a4)
+)
 <br>
 
 ## Tech Stack
@@ -41,7 +39,7 @@ Used [Sweet Alert](https://sweetalert.js.org/) library for showing Alerts
 
 <br>
 
-[Live Link](https://audio-player-app.vercel.app/)
+[Live Link](https://audio-player1.vercel.app/)
 
 ## Feedback
 
